@@ -1,6 +1,6 @@
 # Shiny_app.
 
-This project has done in Spanish.
+This project has been done in Spanish.
 
 ## Introducction.
 
