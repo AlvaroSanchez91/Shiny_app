@@ -159,29 +159,7 @@ shinyUI(fluidPage(
   
 ##################### fin navbarPage
              )
-# ,
-# 
-# 
-# # Sidebar with a slider input for number of bins
-# sidebarLayout(
-#   sidebarPanel(
-#     selectInput("SelVariable01Uni",
-#                 "Selecciona variable:",
-#                 choices = names(creditos)[c(var_numer,var_categ)],
-#                 selected = names(creditos)[var_numer[1]]
-#                 )
-#   ),
-#   
-#   # Show a plot of the generated distribution
-#   mainPanel(
-#     tabsetPanel (
-#       tabPanel(),
-#       tabPanel(),
-#       tabPanel()
-#       
-#     )
-#   )
-# )
+
 ))
 
 
