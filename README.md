@@ -8,7 +8,7 @@ To see the app working just check the next url: https://alvarosanchez.shinyapps.
 
 ## Visualization.
 
-Once we open the app, we can clik on "unidimensional" or "bidimensional" to see density curves, dispersion graphics, regresion curves, ect. 
+Once we open the app, we can click on "unidimensional" or "bidimensional" to see density curves, dispersion graphics, regression curves, ect. 
 
 ![Alt text](density.png?raw=true "Title")
 
