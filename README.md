@@ -1,4 +1,4 @@
-# Shini_app.
+# Shiny_app.
 
 This project has done in Spanish.
 
@@ -12,4 +12,4 @@ Once we open the app, we can clik on "unidimensional" or "bidimensional" to see 
 
 ## Predictive Model.
 
-This model predict the salary using our own data. We just have to upload it, and download the predictions. Also, we can see a table wich show the predictions
+This model predict the salary using our own data. We just have to upload it, and download the predictions. Also, we can see a table wich show the predictions.
